@@ -1,0 +1,4 @@
+Estudo sobre:
+
+=== verifica se os valores e os tipos são idênticos.
+== compara apenas os valores, permitindo conversões de tipo implícitas.
